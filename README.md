@@ -86,3 +86,4 @@ Before creating a pull request, squash your commits into a single commit.
 
 Add the comments where needed, and provide ample explanation in the
 commit message.
+Thanks
